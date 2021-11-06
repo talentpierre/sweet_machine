@@ -6,7 +6,7 @@ import sys
 display = "waveshare2in13"
 
 #opennode credentials
-read_only_key = "Your Key Here"
+read_only_key = ""
 
 ######################################################
 ### (Do not change and of these parameters unless  ###
